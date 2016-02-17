@@ -1,4 +1,4 @@
-'.text.html.js':
+'.text.html.source.js':
   'editor':
     'commentStart': '<%# '
     'commentEnd': ' %>'

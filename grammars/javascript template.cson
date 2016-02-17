@@ -49,4 +49,4 @@
     'include': 'text.html.basic'
   }
 ]
-'scopeName': 'text.html.js'
+'scopeName': 'text.html.source.js'
